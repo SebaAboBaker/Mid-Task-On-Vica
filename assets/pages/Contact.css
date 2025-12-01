@@ -576,7 +576,7 @@ footer .follow-us img:hover {
     font-size: 16px;
 }
 .map iframe{
-        width: 360px;
+        width: 320px;
     }
 .image {
     width: 100%;
@@ -593,6 +593,7 @@ footer .follow-us img:hover {
     margin-bottom: 16px;
 }
 .Counct-US p {
+    width: 320px;
     font-size: 16px;
     margin-bottom: 24px;
 }
@@ -627,6 +628,7 @@ footer .follow-us img:hover {
 }
 .savename {
     font-size: 16px;
+    width: 300px;
 }
 .btn {
     justify-content: center;
